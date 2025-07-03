@@ -58,6 +58,8 @@ I specialize in **end-to-end AI solutions** - from conceptualization to deployme
 #### **🖥️ Systems & Infrastructure**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 - **Computer Architecture** - System design and hardware optimization
