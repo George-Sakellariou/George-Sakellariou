@@ -28,6 +28,10 @@ I specialize in **end-to-end AI solutions** - from conceptualization to deployme
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-4A90E2?style=flat-square&logo=workflow&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-00BCF2?style=flat-square&logo=microsoft&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-4267B2?style=flat-square&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 - **Large Language Models (LLMs)** - Advanced language AI applications
 - **Retrieval Augmented Generation (RAG)** - Advanced document intelligence
