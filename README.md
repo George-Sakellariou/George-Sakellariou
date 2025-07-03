@@ -49,7 +49,6 @@ I specialize in **end-to-end AI solutions** - from conceptualization to deployme
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![ADO](https://img.shields.io/badge/ADO-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
 - **Azure Kubernetes Service (AKS)** - Container orchestration
 - **Dev Containers** - Consistent development environments
