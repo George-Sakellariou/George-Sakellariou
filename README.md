@@ -95,15 +95,6 @@ I specialize in **end-to-end AI solutions** - from conceptualization to deployme
 
 ---
 
-### 🎯 Current Focus
-
-- 🔬 **Research**: Advanced RAG techniques and multi-modal AI systems
-- 🏗️ **Building**: Scalable AI infrastructure on Azure
-- 📚 **Learning**: Latest developments in Agentic AI and LLM optimization
-- 🤝 **Collaborating**: Open-source AI tools and frameworks
-
----
-
 ### 🏆 Highlights
 
 ```yaml
